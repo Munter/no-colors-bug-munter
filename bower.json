@@ -1,0 +1,9 @@
+{
+  "name": "unexpected-bug",
+  "private": true,
+  "dependencies": {
+    "requirejs": "2.1.15",
+    "unexpected": "~5.9.1",
+    "bind-polyfill": "~1.0.0"
+  }
+}
